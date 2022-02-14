@@ -1,8 +1,8 @@
 # Olá! Conheça um pouco sobre mim...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitorress&count_private=true&show_icons=true&theme=dracula)](https://github.com/davitorress/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitorress&count_private=true&show_icons=true&theme=dracula)](https://github.com/davitorress)
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dracula)](https://github.com/davitorress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dracula)](https://github.com/davitorress)
 -->
 
 <!--
