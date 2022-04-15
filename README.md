@@ -1,9 +1,9 @@
 # Olá! Conheça um pouco sobre mim...
 
 <div>
-  <li>👩🏻‍💻 Programador Back-End</li>
+  <li>👩🏻‍💻 Programador Full-Stack</li>
   <li>🎓 Técnico em Desenvolvimento de Sistemas</li>
-  <li>🎓 Tecnólogo em Desenvolvimento de Software Multiplataforma</li>
+  <li>🎓 Cursando Tecnologia em Desenvolvimento de Software Multiplataforma</li>
   <li>📫 Procurando Estágio de Programação</li>
   <li>😄 Pronomes: Ele/Dele</li>
   <li>⚡ Passatempo: Música, Jogos e Séries</li>
