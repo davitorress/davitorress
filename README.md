@@ -6,7 +6,7 @@
   <li>🎓 Tecnólogo em Desenvolvimento de Software Multiplataforma</li>
   <li>📫 Procurando Estágio de Programação</li>
   <li>😄 Pronomes: Ele/Dele</li>
-  <li>⚡ Passatempo: Música e Jogos</li>
+  <li>⚡ Passatempo: Música, Jogos e Séries</li>
 </div>
 
 ## GitHub's Stats
