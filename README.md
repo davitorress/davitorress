@@ -14,9 +14,9 @@
   <a href="https://github.com/davitorress">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitorress&count_private=true&show_icons=true&theme=dark&custom_title=Davi Torres" />
   </a>
-  <!-- <a href="https://github.com/davitorress">
-    <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dark&custom_title=Linguagens mais Utilizadas" />
-  </a> -->
+  <a href="https://github.com/davitorress">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dark&custom_title=Linguagens mais Utilizadas" />
+  </a>
 </div>
 
 ### Linguaguens e Frameworks
