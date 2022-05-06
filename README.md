@@ -12,10 +12,11 @@
 ## GitHub's Stats
 <div>
   <a href="https://github.com/davitorress">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitorress&count_private=true&show_icons=true&theme=dark&custom_title=Davi Torres" />
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=davitorress&count_private=true&show_icons=true&theme=dark&custom_title=Davi Torres" />
   </a>
+  <br><br>
   <a href="https://github.com/davitorress">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dark&custom_title=Linguagens mais Utilizadas" />
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dark&custom_title=Linguagens mais Utilizadas" />
   </a>
 </div>
 
