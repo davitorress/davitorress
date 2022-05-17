@@ -9,6 +9,7 @@
   <li>⚡ Passatempo: Música, Jogos e Séries</li>
 </div>
 
+<!--
 ## GitHub's Stats
 <div>
   <a href="https://github.com/davitorress">
@@ -19,6 +20,7 @@
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&theme=dark&custom_title=Linguagens mais Utilizadas" />
   </a>
 </div>
+-->
 
 ### Linguaguens e Frameworks
 <div style="display: inline_block;">
