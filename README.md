@@ -9,16 +9,16 @@
   <li>⚡ Passatempo: Música, Jogos e Séries</li>
 </div>
 
-## GitHub's Stats
+##
+
 <div align="center">
   <a href="https://github.com/davitorress">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davitorress&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Davi Torres"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&langs_count=7&theme=dark&custom_title=Linguagens mais Utilizadas"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davitorress&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
-### Linguaguens e Frameworks
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="Davi-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
