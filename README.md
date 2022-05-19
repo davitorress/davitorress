@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/davitorress">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davitorress&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=davitorress&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitorress&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -25,12 +25,9 @@
   <img align="center" alt="Davi-JQuery" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Davi-MYSQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Davi-PHP" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
 
-### Ferramentas
-<div style="display: inline_block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" align="center" />
+  <img align="center" alt="Davi-GIMP" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
+  <img align="center" alt="Davi-WORDPRESS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
 ##
