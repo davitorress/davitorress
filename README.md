@@ -10,16 +10,16 @@
 
 # <a href="https://compass.uol/en/home/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px"><img src="./assets/logo-uol-icon-1024.png" width="75px" align="left"></a> Front-end Intern at Compass.uol
 
-🗓️ 11/2022 - 04/2023 (5 months)
+<br>🗓️ 11/2022 - 04/2023 (5 months)
 
-📌 JavaScript & TypeScript
-📌 React.js
-📌 React Hooks
-📌 Redux Toolkit
-📌 Styled Components
-📌 Unit Testing
-📌 GraphQL
-📌 AWS Amplify
+📌 JavaScript & TypeScript<br>
+📌 React.js<br>
+📌 React Hooks<br>
+📌 Redux Toolkit<br>
+📌 Styled Components<br>
+📌 Unit Testing<br>
+📌 GraphQL<br>
+📌 AWS Amplify<br>
 
 ---
 
