@@ -8,7 +8,7 @@
 
 ---
 
-# <img src="./assets/fatec-registro.jpeg" width="75px" style="margin-right: 10px; border-radius: 50%" align="left"> Academic Monitor at FATEC Registro
+# <img src="./assets/fatec-registro.jpeg" width="75px" style="margin-right: 10px; border-radius: 99%" align="left"> Academic Monitor at FATEC Registro
 
 <br>🗓️ 03/2023 - 06/2023 (3 months)
 
