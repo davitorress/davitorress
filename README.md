@@ -8,6 +8,16 @@
 
 ---
 
+# <img src="./assets/fatec-registro.jpeg" width="75px" style="margin-right: 10px; border-radius: 50%" align="left"> Academic Monitor at FATEC Registro
+
+<br>🗓️ 03/2023 - 06/2023 (3 months)
+
+📌 HTML5<br>
+📌 CSS3<br>
+📌 Teaching<br>
+
+---
+
 # <a href="https://compass.uol/en/home/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px"><img src="./assets/logo-uol-icon-1024.png" width="75px" align="left"></a> Front-end Intern at Compass.uol
 
 <br>🗓️ 11/2022 - 04/2023 (5 months)
