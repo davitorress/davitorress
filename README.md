@@ -8,9 +8,10 @@
 
 ---
 
-<img src="./assets/aws-partner-accreditation-technical.png" alt="AWS Technical Accreditation" />
-
-<img src="./assets/aws-partner-cloud-economics-accreditation.png" alt="AWS Cloud Economics Accreditation" />
+<div style="display: flex">
+  <img src="./assets/aws-partner-accreditation-technical.png" alt="AWS Technical Accreditation" />
+  <img src="./assets/aws-partner-cloud-economics-accreditation.png" alt="AWS Cloud Economics Accreditation" />
+</div>
 
 ---
 
@@ -59,6 +60,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=davitorress&icon=0&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=davitorress&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
