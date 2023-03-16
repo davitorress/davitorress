@@ -8,6 +8,12 @@
 
 ---
 
+<img src="./assets/aws-partner-accreditation-technical.png" alt="AWS Technical Accreditation" />
+
+<img src="./assets/aws-partner-cloud-economics-accreditation.png" alt="AWS Cloud Economics Accreditation" />
+
+---
+
 # <img src="./assets/fatec-registro.jpeg" width="75px" style="margin-right: 10px; border-radius: 99%" align="left"> Academic Monitor at FATEC Registro
 
 <br>🗓️ 03/2023 - 06/2023 (3 months)
